@@ -4,3 +4,4 @@ kyoto
 nakata
 sendai
 fukushima
+fukuoka
